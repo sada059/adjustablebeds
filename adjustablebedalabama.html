@@ -52,26 +52,33 @@ a:hover { color: #BA0707; }
 
 nav {
   display: block;
-  background: #E95546;
+  background: transparent;
 }
 
-.menu { display: block; }
+.menu {display: block;
+    margin: 0;
+    padding: 0;}
 
 .menu li {
-  display: inline-block;
-  position: relative;
-  z-index: 100;
+display: inline-block;
+    margin: 0;
+    position: relative;
+    z-index: 100;
 }
 
 .menu li:first-child { margin-left: 0; }
 
 .menu li a {
-  font-weight: 600;
-  text-decoration: none;
-  padding: 20px 15px;
-  display: block;
-  color: #fff;
-  transition: all 0.2s ease-in-out 0s;
+ background-color: rgb(255, 174, 0);
+    background-image: url("images/nav-background.png");
+    background-repeat: repeat-x;
+    border-right: 1px solid #d2d2d2;
+    color: #000;
+    display: block;
+    font-family: arial,verdana,sans-serif;
+    font-size: 12px;
+    height: 28px;
+    padding: 10px;
 }
 
 .menu li a:hover,
