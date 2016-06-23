@@ -498,6 +498,7 @@ var oldhandler = window.onload;
 window.onload = (typeof oldhandler == "function")
     ? function() { oldhandler(); pngHeight(); } : pngHeight;
 </script>
+ <script src="scripts/prefixfree.min.js" type="text/javascript"></script>
 <script>
 $(document).ready(function(){ 
 	var touch 	= $('#resp-menu');
@@ -517,6 +518,6 @@ $(document).ready(function(){
 	
 });
 </script>
-    <script src="scripts/prefixfree.min.js" type="text/javascript"></script>
+   
 </body>
 </html>
