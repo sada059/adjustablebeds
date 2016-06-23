@@ -182,16 +182,16 @@ background-color: rgb(255, 255, 255);
 .responsive-menu {
   display: none;
   width: 100%;
-  padding: 20px 15px;
-  background: #E95546;
-  color: #fff;
+  padding: 20px 0;
+  background: #fff;
+  color: #000;
   text-transform: uppercase;
   font-weight: 600;
 }
 
 .responsive-menu:hover {
-  background: #E95546;
-  color: #fff;
+  background: #fff;
+  color: #000;
   text-decoration: none;
 }
 
@@ -207,7 +207,11 @@ a.homer { background: #FC6D58; }
 a.homer { background: #E95546; }
 }
  @media (max-width: 767px) {
-
+	 .menu .sub-menu a {
+    border-right:none;
+    border-bottom: 1px solid #d2d2d2;
+    width: 100%;}
+.menu li a{border-bottom: 1px solid #d2d2d2;border-right:none;}
 .mainWrap {
   width: auto;
   padding: 50px 20px;
@@ -235,8 +239,8 @@ nav {
 
 .menu li a:hover,
 .menu li:hover>a {
-  background: #FC6D58;
-  color: #fff;
+/*  background: #FC6D58;
+  color: #fff;*/
 }
 
 .menu ul {
