@@ -1,0 +1,415 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta name="robots" content="index, follow"><meta name="description" content="Adjustable Beds Direct - Manufacturer of adjustable beds and mattresses for seniors, disabled and assisted living facilities. Buy Direct & Save!"><meta name="keywords" content="adjustable bed factory,bed manufacturer,maker of adjustables,electrci bed drop shipper,Tempur-Pedic Mattress,Sleep Number Mattress,discount electric adjustables,leggett & Platt,L & P Beds,S-cape Bed,Interflex adjustable,adjustomatic,niagra bed,simmons comforpedic,sealy true form,Beds That Adjust,furniture store adjustable bed,electric bed prices,low cost adjustable beds,wholesale electric adjustable bed,adjustable airbed,air bed mattress,mattresses that adjust,split king bed,split queen mattress"><META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE"><META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+<script language="javascript">
+//-- These colors are used in design templates
+
+var col_primary="#4f78a6";
+var col_secondary="#ffffff";
+var col_tertiary="#ffae00";
+var col_background="#f0f0e6";
+
+</script>
+
+
+<script language="JavaScript" src="../scripts/ic_globals_published.js"></script><script language="JavaScript" src="scripts/user.js"></script><script language="JavaScript" src="scripts/photoalbum.js"></script>
+<title>Senior Approved Adjustable Beds & Mattresses Up To 70% Off</title>
+<link rel="stylesheet" media="screen" href="scripts/template.css"><link rel="stylesheet" media="all" href="scripts/website.css"><link rel="stylesheet" media="print" href="scripts/print.css"><link rel="stylesheet" media="all" href="scripts/1custom.css"><link rel="stylesheet" media="all" href="scripts/icwebsiteelement.css">
+<style type="text/css">
+* html #left-shadow-fade {
+    background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src=images/left-side-shadow.png);
+}
+* html #right-shadow-fade {
+    background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src=images/right-side-shadow.png);
+}
+* html #nav-top #header-top #header-png {
+    background-image:none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src=images/nav-bar-overlay.png);
+}
+* html #nav-top #navcontainer div a:link, 
+* html #nav-top #navcontainer div a:active, 
+* html #nav-top #navcontainer div a:visited {
+    background-image:none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src=images/nav-background.png);
+}
+</style>
+</head>
+<body id="regular" class="background" onload="processMenus();sizeColumns();">
+<div id="printwrap">
+	<div id="nav-top">
+		<div id="left-shadow-fade" class="background"></div>
+		<div id="inner">
+			<div id="header-top">
+				<div id="header-png" class="primary">&nbsp;</div>
+				<div id="logo-holder">
+					<h1 id="website-title">Medical Adjustable Beds &amp; Mattresses For The Home</h1>
+					<h2 id="website-slogan">Factory Direct Manufacturers - Nationwide Service - Call Our Factory Today 1-800-993-1012</h2>
+				</div>
+				<div id="navcontainer">
+					<div><a href="home.html" class="tertiary" target="_self"><h3>Home</h3></a></div>
+<div><a href="informationcenter.html" class="tertiary" target="_self"><h3>Information Center</h3></a><div class="submenu"><div><a href="informationcenter/adjustablebedquestions.html" class="tertiary" target="_self"><h3>Adjustable Bed Questions</h3></a></div><div><a href="informationcenter/adjustablebedbenefits.html" class="tertiary" target="_self"><h3>Adjustable Bed Benefits</h3></a></div><div><a href="informationcenter/testimonials.html" class="tertiary" target="_self"><h3>TESTIMONIALS</h3></a></div></div></div>
+<div><a href="adjustablebedmodels.html" class="tertiary" target="_self"><h3>Adjustable Bed Models</h3></a><div class="submenu"><div><a href="adjustablebedmodels/infinitydualmassage.html" class="tertiary" target="_self"><h3>Infinity Dual Massage</h3></a></div><div><a href="adjustablebedmodels/harmonyclassicbed.html" class="tertiary" target="_self"><h3>Harmony Classic Bed</h3></a></div><div><a href="adjustablebedmodels/seniorbasicbed.html" class="tertiary" target="_self"><h3>Senior Basic Bed</h3></a></div></div></div>
+<div><a href="adjustablebedmattresses.html" class="tertiary" target="_self"><h3>Adjustable Bed Mattresses</h3></a></div>
+<div><a href="warrantysleeptrial.html" class="tertiary" target="_self"><h3>Warranty & Sleep Trial</h3></a></div>
+
+				</div>
+			</div>
+			<div id="content">
+				<div id="accent" class="accent"></div>
+				<div class="clearer secondary">&nbsp;</div>
+		     	<table id="content-table">
+					<tr>
+						<td id="content-table-main" align="left" valign="top">
+							<!-- Start content section --><div id="pagecols">
+<div id="column1">
+<div id="colbody1" class="colbody">
+<div class="building_block" id="pgbldblk58">
+<div class="blockbody" id="body_pgbldblk58"><table width="98%" border="0" cellspacing="0" cellpadding="2" align="center"><tr><td align="center" bgcolor="White"><span style="color:Navy;font-weight:bold;font-size:24pt; font-family:arial;">Medical Adjustable Beds For Home</span></td></tr></table></div>
+</div>
+<div class="building_block" id="pgbldblk244">
+<div class="blockbody" id="body_pgbldblk244">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top">
+<br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk234">
+<div class="blockbody" id="body_pgbldblk234">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="center" valign="top"><table summary="image table" cellpadding="0" cellspacing="0" border="0" width="618" style=""><tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center"><img width="593" src="images/593_ADJ_Dual_King_In_Platform_Bed.jpg" alt="" style="" border="0" height="375"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</table>
+</td>
+</tr></table></td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk198">
+<div class="blockbody" id="body_pgbldblk198">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><P align=center editor_id="mce_editor_0"><A CLASS="undefined" HREF="http://www.adjustablebed.tv/adjustablebedmodels.html" TARGET="_self" MCE_REAL_HREF="http://www.adjustablebed.tv/adjustablebedmodels.html" ><FONT face="arial, verdana, sans-serif" color=#0000ff size=5 editor_id="mce_editor_0">:: View Our Adjustable Bed Models ::</FONT></A><A CLASS="undefined" HREF="http://www.adjustablebed.tv/adjustablebedmodels.html" TARGET="_self" MCE_REAL_HREF="http://www.adjustablebed.tv/adjustablebedmodels.html" ><FONT face="arial, verdana, sans-serif" color=#0000ff editor_id="mce_editor_0"></FONT></A></P>
+<A CLASS="undefined" HREF="http://www.adjustablebed.tv/adjustablebedmodels.html" TARGET="_self" MCE_REAL_HREF="http://www.adjustablebed.tv/adjustablebedmodels.html" ><FONT face="arial, verdana, sans-serif" editor_id="mce_editor_0"></FONT></A><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk73">
+<div class="blockbody" id="body_pgbldblk73">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><FONT color=#000000><FONT size=2 face=Arial editor_id="mce_editor_0">Over 1,000,000&nbsp;<A CLASS="undefined" HREF="adjustablebedmodels.html" TARGET="_self" MCE_REAL_HREF="page3.html" >Adjustable Beds</A> are now in use in customer bedrooms around the world and attest to the fact that our unique beds are as durable as they are attractive and comfortable. We here at&nbsp;Adjustablebed.TV hope your experience with our company is both a pleasant and rewarding one. <BR><BR>From your very first request for information through the day an <A CLASS="undefined" HREF="adjustablebedmodels.html" TARGET="_self" MCE_REAL_HREF="page3.html" >Adjustable&nbsp;Sleep System</A> Or <A CLASS="undefined" HREF="adjustablebedmattresses.html" TARGET="_self" MCE_REAL_HREF="page4.html" >Adjustable Bed Mattress</A> is placed in your bedroom, and beyond, we'll endeavor to make you a satisfied customer. Click through our web pages and discover why&nbsp;Adjustable Beds Direct markets the very finest sleep systems modern sleep technology can offer! Sleep experts are standing by call&nbsp;now 1-800-993-1012</FONT><BR></FONT><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk86">
+<div class="blockbody" id="body_pgbldblk86">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><HR id=null><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk189">
+<div class="blockbody" id="body_pgbldblk189">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><H2 align=center editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif" editor_id="mce_editor_0"><FONT color=#000099>Our Beds Will Drop Into Your Existing Furniture<BR><FONT size=4>By Adjustable Beds Direct</FONT></FONT></FONT></H2><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk179">
+<div class="blockbody" id="body_pgbldblk179">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="center" valign="top"><table summary="image table" cellpadding="0" cellspacing="0" border="0" width="405" style=""><tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center"><img width="380" src="images/380_MFP_Ergonomic_Adjustable_Bed.jpg" alt="Adjustable Bed In Sleigh Bed Frame" style="" border="0" height="254"></td>
+</tr>
+<tr>
+<td align="center">This Is Our Infinity Platinum Inside Of Sleigh Bed Furniture</td>
+</tr>
+</table>
+</td>
+</tr></table></td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk92">
+<div class="blockbody" id="body_pgbldblk92">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><FONT color=#000000 editor_id="mce_editor_0"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial" editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif">Our&nbsp;</FONT><A CLASS="undefined" HREF="adjustablebedmodels.html" TARGET="_self" MCE_REAL_HREF="page3.html" ><FONT face="arial, verdana, sans-serif" size=2>zero gravity adjustable bed (Model I)</FONT></A><FONT face="arial, verdana, sans-serif"> is not only comfortable to sleep on; it is beautifully designed and crafted. The frame is powder coated for one of the most durable and finely finished bed frames on the market. The bed frames offer removable legs that do not require the use of tools to assemble. Our beds without the legs attached are able to function on the floor or in a sleigh bed frame on slats. The fit and finish of our bed looks just like an ordinary bed frame or box spring, making it your own secret that it is an adjustable unit.<BR></FONT></SPAN></SPAN><BR><SPAN><SPAN editor_id="mce_editor_0"><FONT editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif" size=2>The&nbsp;</FONT><A CLASS="undefined" HREF="adjustablebedmodels.html" TARGET="_self" MCE_REAL_HREF="page3.html" ><FONT face="arial, verdana, sans-serif" size=2>zero gravity adjustable base (Model I)</FONT></A><FONT face="arial, verdana, sans-serif" size=2>&nbsp;has several advances over other models. Some of the most notable features are the wall-tight lift motion, the independent head and foot lift, and the built in massage features. You may be asking what makes this adjustable base so unique, and the answer is simple. The&nbsp;zero gravity&nbsp;adjustable bed can operate without legs, meaning that you can install the&nbsp;zero gravity bed&nbsp;into a slatted or platform bed frame without worry. The Zero-Gravity feature is a simple one-button adjustment to raise both the head and legs simultaneously to a neutral body position, giving you the feel of weightlessness.&nbsp;<BR><BR>Zero gravity occurs when the torso is properly angled with the thighs and lower legs positioned above the heart. In this position, the amount of pressure exerted onto the spine is greatly reduced. When the spine is positioned at zero gravity, full body muscle tension is relieved and circulation is improved. It is a completely stress-free position</FONT><FONT color=#3333ff><FONT face="arial, verdana, sans-serif"><FONT size=2><SPAN>.&nbsp; </SPAN></FONT></FONT></SPAN></FONT></SPAN></FONT><BR></FONT><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk97">
+<div class="blockbody" id="body_pgbldblk97">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><HR id=null><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk148">
+<div class="blockbody" id="body_pgbldblk148">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><H1 id=tit editor_id="mce_editor_0">
+<H3 id=tit align=center editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif"><FONT color=#000099><FONT size=5>Zero Gravity:&nbsp;A Better Way to Relax Your Spine</FONT><BR>By Adjustable Beds Direct</FONT></FONT></H3></H1><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk81">
+<div class="blockbody" id="body_pgbldblk81">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="center" valign="top"><table summary="image table" cellpadding="0" cellspacing="0" border="0" width="591" style=""><tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center"><img width="566" src="images/566_Ergo_Zero_Gravity_LOGO.jpg" alt="Zero Gravity Adjustable Bed Frame" style="" border="0" height="55"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</table>
+</td>
+</tr></table></td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk224">
+<div class="blockbody" id="body_pgbldblk224">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="center" valign="top"><table summary="image table" cellpadding="0" cellspacing="0" border="0" width="325" style=""><tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center"><img width="300" src="images/300_MFP_Basic_Adjustable_Bed_Woman.jpg" alt="" style="" border="0" height="132"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</table>
+</td>
+</tr></table></td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk167">
+<div class="blockbody" id="body_pgbldblk167">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><FONT color=#000000 size=2 face="arial, verdana, sans-serif">You've had a hard day at work, you're tired, and your neck, back, and legs are stiff. All you need to feel better is a little time to flop down on the couch and relax. While lying on a couch or slouching in an easy chair may seem comfortable, those positions are really not relaxing your spine. In fact, they may actually be requiring your spinal muscles to work even harder. <BR></FONT>
+<P editor_id="mce_editor_0"><BR><FONT color=#000000 size=2 face="arial, verdana, sans-serif" editor_id="mce_editor_0"><STRONG>Stay Neutral</STRONG> </FONT><BR><FONT color=#000000 size=2 face="arial, verdana, sans-serif">We have all heard the benefits of good posture, particularly when standing, sitting, and lifting. Good posture occurs when the spine is in a neutral position - when the normal curves of the spine have the least amount of stresses upon them and support is evenly maintained by the discs, bones, and ligaments. <BR></FONT></P>
+
+<P><FONT color=#000000 size=2 face="arial, verdana, sans-serif"><BR>Good body mechanics are ways to maintain a neutral spine while going about your activities of daily living. For example: </FONT></P>
+
+<BLOCKQUOTE>
+<P editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif"><FONT size=2><FONT color=#000000 editor_id="mce_editor_0"><STRONG>Standing:</STRONG> keep your feet slightly apart with the knees straight and the chin tucked in. Shift weight from one foot to the other regularly.<BR>&nbsp;</FONT></FONT></FONT></P>
+
+<P editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif"><FONT size=2><FONT color=#000000 editor_id="mce_editor_0"><STRONG>Sitting:</STRONG> sit with your back straight, your shoulders back, and your buttocks against the back of the chair. Keep your feet flat on the floor. <BR></FONT></FONT></FONT></P>
+
+<P editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif"><FONT size=2><FONT color=#000000 editor_id="mce_editor_0"><STRONG><BR>Lifting:</STRONG> stand close to the object with your feet flat on the floor. Face the object directly to avoid twisting as you lift. Bend your knees and lift carefully, keeping the object as close to your body as you can. If possible, keep your elbows bent while carrying heavy object. <BR></FONT></FONT></FONT><FONT face="arial, verdana, sans-serif"><FONT size=2><FONT color=#000000 editor_id="mce_editor_0"><BR><STRONG>Sleeping:</STRONG> when we lie down, the body is affected by gravity differently than when we are upright. A good mattress allows you to maintain a neutral position; muscles are relaxed, and sleep is more refreshing. </FONT></FONT></FONT></P>
+</BLOCKQUOTE>
+
+<P editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif"><FONT size=2><FONT color=#000000><STRONG>Time to Relax <BR></STRONG>But what about when we are relaxing? Is the neutral spine position important then too? Spine specialists agree, even though you may feel relaxed when you lie on your couch, there are still pressures being exerted on your spine causing your muscles to keep working. <BR></FONT></FONT></FONT></P>
+
+<P editor_id="mce_editor_0"><BR><FONT color=#000000 size=2 face="arial, verdana, sans-serif" editor_id="mce_editor_0">The latest trend in helping people relax comfortably and safely is the <STRONG>Zero Gravity Adjustable Bed</STRONG> By Adjustable Beds Direct&nbsp;</FONT><FONT color=#000000 size=2 face="arial, verdana, sans-serif" editor_id="mce_editor_0"> Sometimes called "anti-gravity," these ergonomically designed reclining&nbsp;beds are designed to position the body so that a person can sit or lie back while relieving pressure on the spine. <BR></FONT></P><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk157">
+<div class="blockbody" id="body_pgbldblk157">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><HR id=null><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk122">
+<div class="blockbody" id="body_pgbldblk122">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><H4 align=center editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif" size=5 editor_id="mce_editor_0"><FONT color=#000099>Adjustable Electric Beds For Seniors &amp; Elderly <BR><FONT size=4>By Adjustable Beds Direct</FONT></FONT></FONT></H4><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk127">
+<div class="blockbody" id="body_pgbldblk127">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="center" valign="top"><table summary="image table" cellpadding="0" cellspacing="0" border="0" width="332" style=""><tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center"><img width="307" src="images/307_MFP_Adjustable_Bed_For_Parents.jpg" alt="Elderly Adjustable Bed" style="" border="0" height="240"></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</table>
+</td>
+</tr></table></td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk132">
+<div class="blockbody" id="body_pgbldblk132">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><P editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif" color=#000000 size=2 editor_id="mce_editor_0">It is a major commitment to look after a loved one with physical dependencies in your home.&nbsp;The typical person does not have the equipment necessary for safe and less burdensome daily care of the elderly, We have supplied these beds for 42 years and are experts.<BR></FONT></P>
+
+<P editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif" size=2><BR><FONT color=#000000 editor_id="mce_editor_0">Care-giving equipment previously seen only in elder care facilities is now available through many supply companies like ourselves for reasonable prices. Now electrically adjustable and conveniently designed beds are available and are suitable for all homes. We supply these products for Home care, Independent Living &amp; Assisted Living as well as Personal Leisure.<BR></FONT></FONT></P>
+
+<P editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif" color=#000000 size=2 editor_id="mce_editor_0"><BR>Beds of this sort go many times further than any normal&nbsp;bed. These beds are specially made for those who can’t get around easily and must spend most of their time in the bed and have <A CLASS="undefined" HREF="informationcenter/adjustablebedbenefits.html" TARGET="_self" MCE_REAL_HREF="page12.html" >fibromyalgia, arthritis, back pain, osteoarthritis</A>, etc...<BR><BR></FONT></P>
+
+<P editor_id="mce_editor_0"><FONT face="arial, verdana, sans-serif" size=2 editor_id="mce_editor_0"><FONT color=#000000 editor_id="mce_editor_0">When a person is on bed rest, they will usually have poor circulation that can result in swelling from fluid retention, pain, and could eventually cause blood clots if not properly cared for. Pressure sores and ulcers can cause much suffering. <BR><BR></FONT></FONT><FONT face="arial, verdana, sans-serif" size=2 editor_id="mce_editor_0"><FONT color=#000000 editor_id="mce_editor_0">An <STRONG editor_id="mce_editor_0"><A CLASS="undefined" HREF="adjustablebedmodels.html" TARGET="_self" MCE_REAL_HREF="page3.html" >adjustable bed</A></STRONG> lessens the risk of injury and eases heavy work If mobility is limited.<BR></FONT></FONT><FONT face="arial, verdana, sans-serif" size=2><BR><FONT color=#000000 editor_id="mce_editor_0">More and more elderly people are now being cared for at home. Because of this very reason, businesses have made useful, good-looking, and affordable equipment to help care for them. <BR><BR>This will make care giving at home easier and <A CLASS="undefined" HREF="informationcenter/adjustablebedquestions.html" TARGET="_self" MCE_REAL_HREF="page10.html" >extremely possible in most cases</A>. Call us for help in choosing the right adjustable bed for your loved one. 1-800-993-1012<BR></FONT></FONT></P><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk116">
+<div class="blockbody" id="body_pgbldblk116">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><HR id=null><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk239">
+<div class="blockbody" id="body_pgbldblk239">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="" valign="top"><FONT color=#000000 size=2 editor_id="mce_editor_0">
+<DIV align=center>
+<P editor_id="mce_editor_0"><FONT color=#000000 size=2 editor_id="mce_editor_0"><FONT color=#990000><STRONG><FONT size=3 editor_id="mce_editor_0"><A CLASS="undefined" HREF="adjustablebedmodels.html" TARGET="_self" MCE_REAL_HREF="page3.html" ><FONT face=Arial color=#0000ff size=4>Click Here To Go Back To Our Adjustable Bed Models Page<BR></FONT></A><BR><A CLASS="undefined" EDITOR_ID="mce_editor_0" HREF="freecatalogdvd.html" TARGET="_self" MCE_REAL_HREF="page11.html" ><FONT face=Arial color=#0000ff size=4 editor_id="mce_editor_0">Click Here To Request An Instant Price Quote On Our Beds</FONT></A><BR><BR><FONT face=Arial>Call 1-800-993-1012 Now &amp; See If You Qualify For Insurance Discounts</FONT></FONT></STRONG><BR><BR></FONT></FONT></P>
+</DIV></FONT><br>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="building_block" id="pgbldblk173">
+<div class="blockbody" id="body_pgbldblk173">
+<table border="0" name="" width="100%" cellpadding="5" cellspacing="0">
+<tr align="" valign="">
+<td colspan="1" rowspan="1" width="100%" align="center" valign="top"><table summary="image table" cellpadding="0" cellspacing="0" border="0" width="230" style=""><tr>
+<td align="center" valign="top">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center"><a HREF="informationcenter/testimonials.html" TARGET="_self" ><img width="205" src="images/205_ADJ_Testimonial_Logo.gif" alt="" style="" border="0" height="63"></a></td>
+</tr>
+<tr>
+<td align="center"></td>
+</tr>
+</table>
+</td>
+</tr></table></td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div id="column2">
+<div id="colbody2" class="colbody"></div>
+</div>
+<div id="column3">
+<div id="colbody3" class="colbody"></div>
+</div>
+</div><div id="measurescroll" style="clear:both;"></div><table border="0" width="100%" cellpadding="0" cellspacing="0" id="other_footer">
+<tr>
+<td align="left" valign="middle"><div align="center" editor_id="mce_editor_0"><strong><span style="color: #000000;" color="#000000"><span style="color: #000099;" color="#000099"><span style="font-family: Arial; font-size: small;" face="Arial" size="2" editor_id="mce_editor_0">Adjustable Bed - Factory&nbsp;Shipping Locations (Call For Other Locations)</span></span></span></strong></div>
+<div align="center" editor_id="mce_editor_0"></div>
+<div align="center" editor_id="mce_editor_0"><span style="color: #000000;" color="#000000"><span style="color: #000099;" color="#000099"><span style="font-family: Arial; font-size: small;" face="Arial" size="2" editor_id="mce_editor_0"></span></span></span><span style="color: #000000;" color="#000000"><span style="color: #000099;" color="#000099"><span style="font-family: Arial; color: #000000; font-size: small;" face="Arial" color="#000000" size="2" editor_id="mce_editor_0"><strong editor_id="mce_editor_0">EAST:&nbsp; Atlanta, GA - Cranberry, NJ -&nbsp; Walton Hills, OH - Tampa, FL - Avon, MA</strong></span></span></span></div>
+<div align="center" editor_id="mce_editor_0"><span style="color: #000000;" color="#000000"><span style="color: #000099;" color="#000099"><span style="font-family: Arial; color: #000000; font-size: small;" face="Arial" color="#000000" size="2" editor_id="mce_editor_0"></span></span></span><span style="color: #000000;" color="#000000"><span style="color: #000099;" color="#000099"><span style="font-family: Arial; color: #000000; font-size: small;" face="Arial" color="#000000" size="2" editor_id="mce_editor_0"><strong editor_id="mce_editor_0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CENTRAL: Houston, TX - Bensenville, IL - Dallas, TX - St. Louis, MO - Auburn, IN&nbsp;<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WEST:&nbsp; Norwalk, CA - City Of Industry, CA - Tacoma, WA - Denver, CO - Tualatin, OR</strong></span></span></span></div>
+<div align="center" editor_id="mce_editor_0"><span style="color: #000000;" color="#000000"><span style="color: #000099;" color="#000099"><span style="font-family: Arial; color: #000000; font-size: small;" face="Arial" color="#000000" size="2" editor_id="mce_editor_0"><strong editor_id="mce_editor_0"><br /></strong></span></span><span style="color: #993300;" color="#993300" editor_id="mce_editor_0"><strong><span style="font-family: Arial; font-size: small;" face="Arial" size="2" editor_id="mce_editor_0">Call Toll Free 1-800-993-1012 With Any Questions<br /><br /></span></strong><span style="color: #000000;" color="#000000" editor_id="mce_editor_0"><a CLASS="undefined" EDITOR_ID="mce_editor_0" HREF="home.html" TARGET="_self" MCE_REAL_HREF="page1.html" ><span style="font-family: Arial; color: #0000ff; font-size: small;" face="Arial" color="#0000ff" size="2">Home</span></a><span style="font-family: Arial; font-size: small;" face="Arial" size="2">&nbsp;- </span><a CLASS="undefined" HREF="sitemap.html" TARGET="_self" MCE_REAL_HREF="page21.html" ><span style="font-family: Arial; color: #0000ff; font-size: small;" face="Arial" color="#0000ff" size="2">Site Map</span></a><span style="font-family: Arial; font-size: small;" face="Arial" size="2"> - </span><a CLASS="undefined" HREF="informationcenter.html" TARGET="_self" MCE_REAL_HREF="page6.html" ><span style="font-family: Arial; color: #0000ff; font-size: small;" face="Arial" color="#0000ff" size="2">Information Center</span></a><span style="font-family: Arial; font-size: small;" face="Arial" size="2"> - </span><a CLASS="undefined" HREF="adjustablebedmodels.html" TARGET="_self" MCE_REAL_HREF="page3.html" ><span style="font-family: Arial; color: #0000ff; font-size: small;" face="Arial" color="#0000ff" size="2">Adjustable Beds</span></a><span style="font-family: Arial; font-size: small;" face="Arial" size="2"> - </span><a CLASS="undefined" EDITOR_ID="mce_editor_0" HREF="adjustablebedmattresses.html" TARGET="_self" MCE_REAL_HREF="page4.html" ><span style="font-family: Arial; color: #0000ff; font-size: small;" face="Arial" color="#0000ff" size="2">Mattresses</span></a><span style="font-family: Arial; font-size: small;" face="Arial" size="2"> - </span><a CLASS="undefined" HREF="warrantysleeptrial.html" TARGET="_self" MCE_REAL_HREF="page5.html" ><span style="font-family: Arial; color: #0000ff; font-size: small;" face="Arial" color="#0000ff" size="2">Warranty &amp; Sleep Trial</span></a><span style="font-size: small;" size="2"><span style="font-family: Arial;" face="Arial">&nbsp;<br /><span editor_id="mce_editor_0"></span></span></span><a CLASS="undefined" HREF="checkstatusoforder.html" TARGET="_self" MCE_REAL_HREF="page8.html" ><span style="font-family: Arial; color: #0000ff; font-size: small;" face="Arial" color="#0000ff" size="2" editor_id="mce_editor_0">Check Your Order</span></a><span style="font-family: Arial; font-size: small;" face="Arial" size="2">&nbsp;-&nbsp;</span><a CLASS="undefined" EDITOR_ID="mce_editor_0" HREF="https://cms.paypal.com/us/cgi-bin/?cmd=_render-content&amp;content_ID=marketing_us/send_money" TARGET="_blank" MCE_REAL_HREF="https://cms.paypal.com/us/cgi-bin/?cmd=_render-content&amp;content_ID=marketing_us/send_money" ><span style="font-family: Arial; color: #0000ff; font-size: small;" face="Arial" color="#0000ff" size="2">Pay With PayPal Here</span></a><span style="font-family: Arial; font-size: small;" face="Arial" size="2">&nbsp;- </span><a CLASS="undefined" EDITOR_ID="mce_editor_0" HREF="privacypolicy.html" TARGET="_self" MCE_REAL_HREF="page20.html" ><span style="font-family: Arial; color: #0000ff; font-size: small;" face="Arial" color="#0000ff" size="2">Privacy Policy</span></a>&nbsp;- <a CLASS="undefined" EDITOR_ID="mce_editor_0" HREF="freecatalogdvd.html" TARGET="_self" MCE_REAL_HREF="page11.html" ><span style="font-family: Arial; color: #0000ff; font-size: small;" face="Arial" color="#0000ff" size="2" editor_id="mce_editor_0">Price Request</span></a>&nbsp;<br /><span editor_id="mce_editor_0"><br /><br /></span><span style="font-family: Arial; font-size: small;" face="Arial" size="2" editor_id="mce_editor_0">&copy;1981 - 2013 Adjustable Beds Direct - All Rights Reserved.<br /></span></span></span></span></div></td>
+</tr>
+<tr>
+<td align="left" valign="middle"></td>
+</tr>
+</table>
+<!-- End content section -->
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div class="clearer"></div>
+			<div id="footer"></div>
+		</div>
+		<div id="right-shadow-fade" class="background"></div>
+	</div>
+</div>
+<script language="javaScript">
+// Column Height Script
+function pngHeight() {
+if (document.all) {
+	document.getElementById('inner').style.zIndex=1000;
+	document.getElementById('right-shadow-fade').style.zIndex=1;
+}
+	if (document.getElementById('inner') || document.getElementById('nav-right')) {
+		var pngH = document.getElementById('footer').offsetTop;
+		if (document.all) {
+			document.getElementById('right-shadow-fade').style.height=pngH;
+			document.getElementById('left-shadow-fade').style.height=pngH;
+		}
+		else {
+			document.getElementById('right-shadow-fade').style.height=pngH + "px";
+			document.getElementById('left-shadow-fade').style.height=pngH + "px";
+		}
+	}
+}
+var oldhandler = window.onload;
+window.onload = (typeof oldhandler == "function")
+    ? function() { oldhandler(); pngHeight(); } : pngHeight;
+</script>		
+</body>
+</html>

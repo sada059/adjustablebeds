@@ -1,0 +1,157 @@
+/*
+-----------------------------------------------------------------------------------------
+CSS document: ImageCaf� Template Styles
+Created: 04/11/2006
+Last Modified: 04/11/2006
+NOTE: Template styles included here cannot be changed by the customer
+-------------------------------------------------------------------------------------- */
+* {margin:0;padding:0;}  /* zero out everything: you may not want to use this as it removes
+                         ALL default browser styles */
+/*
+-----------------------------------------------------------------------------------------
+Global
+-------------------------------------------------------------------------------------- */
+div {position:relative;}
+h1, h2, h3, h4, h5, h6 {margin:10px;}
+h1#website-title {margin:0;}
+h2#website-slogan {margin:0;}
+#navcontainer div h3 {margin:0;}
+ul, ol {
+	margin:10px;
+	padding:0 0 0 20px;
+}
+ol {padding:0 0 0 30px;}
+blockquote {margin:10px 10px 10px 40px;}
+.clearer {clear:both;}
+#printwrap {position:static;}
+
+/*
+-----------------------------------------------------------------------------------------
+General Layout Structure
+-------------------------------------------------------------------------------------- */
+#nav-top, #nav-left, #nav-right {
+	margin:0 auto;
+	width:842px;
+}
+#left-shadow-fade {
+	float:left;
+	width:82px;
+	background-image:url(../images/left-side-shadow.png);
+	background-repeat:repeat-y;
+}
+#inner {
+	float:left;
+	width:678px;
+	background:#fff;
+}
+#right-shadow-fade {
+	float:left;
+	width:82px;
+	background-image:url(../images/right-side-shadow.png);
+	background-repeat:repeat-y;
+}
+* html #right-shadow-fade {margin:0;}
+#accent {
+	float:left;
+	margin:0;
+	height:167px;
+	width:678px;
+}
+.accent-none {display:none;}
+
+/*
+-----------------------------------------------------------------------------------------
+=#NAV-TOP
+-------------------------------------------------------------------------------------- */
+/*------------------ Layout ------------------*/	
+#nav-top #header-top {
+	float:left;
+	width:678px;
+	z-index:1000;
+}
+	#nav-top #header-top #header-png {
+		float:left;
+		height:16px;
+		width:678px;
+		background-image:url(../images/nav-bar-overlay.png);
+		background-repeat:no-repeat;
+	}
+	#nav-top #navcontainer {
+		float:left;
+		width:678px;
+		z-index:1000;
+	}
+
+	#nav-top #logo-holder {
+		float:left;
+		margin:20px 0 10px 10px;
+		width:638px;
+	}
+
+#nav-top #content {
+	float:left;
+	width:678px;
+}
+	#content #content-table {
+		float:left;
+		margin:20px 10px;
+		width:638px;
+	}
+		#content #content-table #content-table-main {width:100%;}
+
+/*------------------ Navigation Elements ------------------*/	
+#nav-top #navcontainer div, #nav-top #navcontainer div h3 {
+	float:left;
+	display:block;
+	cursor:pointer;
+}
+	#nav-top #navcontainer div a:link, 
+	#nav-top #navcontainer div a:active, 
+	#nav-top #navcontainer div a:visited {
+		float:left;
+		padding:10px;
+		border-right:1px solid #D2D2D2;
+		height:28px;
+		background-image: url(../images/nav-background.png);
+		background-repeat:repeat-x;
+	}
+		#nav-top #navcontainer div div.submenu {
+			position:absolute;
+			top:0;
+			left:0;
+			visibility: hidden;
+			width:200px;
+			z-index:9999;
+		}
+			#nav-top #navcontainer div div.submenu a:link, 
+			#nav-top #navcontainer div div.submenu a:active, 
+			#nav-top #navcontainer div div.submenu a:visited {
+				float:left;
+				width:150px;
+				border:1px solid #D2D2D2;
+				padding:14px 14px 5px 14px;
+				background-image:none;
+				background-color:#FFFFFF;
+				filter:none;
+				word-wrap: break-word;
+				white-space: normal;
+			}
+			
+/*
+-----------------------------------------------------------------------------------------
+=#NAV-LEFT
+-------------------------------------------------------------------------------------- */
+/*------------------ Does Not Apply to This Layout ------------------*/	
+
+/*
+-----------------------------------------------------------------------------------------
+=#NAV-RIGHT
+-------------------------------------------------------------------------------------- */
+/*------------------ Does Not Apply to This Layout ------------------*/	
+
+
+/*
+-----------------------------------------------------------------------------------------
+WIDE LAYOUT STYLES
+-------------------------------------------------------------------------------------- */
+/*------------------ Does Not Apply to This Layout ------------------*/	
