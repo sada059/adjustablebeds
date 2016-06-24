@@ -12,4 +12,5 @@ h2#website-slogan {font-family: arial, verdana, sans-serif; font-size: 13px; fon
 *#navcontainer div a h3 {font-family: arial, verdana, sans-serif; font-size: 12px; font-weight: bold; color: rgb(92, 92, 92); font-style: normal; text-decoration: none}
 *#navcontainer div a:hover h3 {font-weight: bold; color: rgb(92, 92, 92); font-style: normal; text-decoration: none; background-color: rgb(255, 255, 255)}
 *#navcontainer div a:hover {font-weight: bold; color: rgb(92, 92, 92); font-style: normal; text-decoration: none; background-color: rgb(255, 255, 255)}
-*.accent {background: transparent url(../images/ADJ_Direct_Company_LOGO.jpg) no-repeat top left}
+*/* .accent {background: transparent url(../images/ADJ_Direct_Company_LOGO.jpg) no-repeat top left} */
+
