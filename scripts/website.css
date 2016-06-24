@@ -14,3 +14,40 @@ h2#website-slogan {font-family: arial, verdana, sans-serif; font-size: 13px; fon
 *#navcontainer div a:hover {font-weight: bold; color: rgb(92, 92, 92); font-style: normal; text-decoration: none; background-color: rgb(255, 255, 255)}
 */* .accent {background: transparent url(../images/ADJ_Direct_Company_LOGO.jpg) no-repeat top left} */
 
+.beds{
+	color:Navy;
+	text-align:center;
+}
+.paragraph{
+    font-family: arial, verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: small;
+	}
+	.img1{
+		text-align:center;
+	}
+	.beds1{
+    font-family: arial, verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: small;
+	margin-bottom:30px;
+	}
+	.tell{
+		text-align:center;
+		font-weight:bold;
+		color:black;
+	}
+	.table{
+		width:100%;
+	}
+	.accent{
+		 width: 100%;
+    height: auto;
+	}
+	 @media only screen and (max-width: 400px) {
+            img1{ 
+                display: none; 
+            }
+            img.smallscreen { 
+                display: inline; 
+            }
