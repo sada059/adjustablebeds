@@ -213,7 +213,7 @@ a.homer { background: #E95546; }
         margin: -10px;
     }
 * {
-
+	width:100%;
     overflow-x: hidden;
 
 }
@@ -239,33 +239,10 @@ margin-left: -16px;
 
     width: 400px;
      }
-     #body_pgbldblk5 {
-     width: 357px;
-     }
-     #body_pgbldblk92 {
-     width: 342px;
-     }
-     #body_pgbldblk26 {
-         width: 50%;
-     }  
-     #body_pgbldblk87 {
-     width: 338px;
-     }
-     #body_pgbldblk36 {
-     width: 343px;
-     }
-     #body_pgbldblk97 {
-          width: 343px;
-     }
-     #body_pgbldblk17 {
-          width: 338px;
-     }
-     #body_pgbldblk31 {
-         width: 324px;
-     }
-     #body_pgbldblk21 {
-     width: 346px;
-     }
+ 
+	 .blockbody {
+		width: 360px !important; 
+	 }
      #other_footer {
          width: 339px;
      }
